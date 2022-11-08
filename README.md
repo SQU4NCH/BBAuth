@@ -14,3 +14,7 @@ Script criado para realizar ataques de Brute Force em servidores com Basic Authe
 -p -> passa a senha para realizar o teste
 
 -P -> parra wordlist para ser usada na senha
+
+## Exemplo de uso
+
+![0](demonstracao.gif)
